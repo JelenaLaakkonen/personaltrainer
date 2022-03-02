@@ -64,7 +64,7 @@ TBD
 <!-- TRY IT YOURSELF -->
 ## Try It Yourself
 - [Personal Trainer](https://personaltrainerweb.herokuapp.com/)
-
+(You might need to refresh the app page a few times because of Heroku :/)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 * [Stack Overflow](https://stackoverflow.com/)
