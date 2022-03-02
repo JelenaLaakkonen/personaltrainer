@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this application the user can add new customers and workouts to them. There is also a calendar page to see every customer's workouts. The "customer" has all four CRUD functions (create, read, update and delete) and the "training" is only lacking update. Customers and trainings are searchable and sortable. The statistics page is currently displaying all the durations of spesific workouts.
+In this application the user can add new customers and workouts to them. There is also a calendar page to see every customer's workouts. The "customer" has all four CRUD functions (create, read, update and delete) and the "training" is only lacking update. Customers and trainings are searchable and sortable. The statistics page is currently displaying all the durations of specific workouts.
 <br />
 <br />
 ![Screen Shots](./src/customers.png?raw=true "Application Screen Shots")
@@ -52,6 +52,7 @@ In this application the user can add new customers and workouts to them. There i
 
 - [x] Add ReadMe
 - [ ] Add SumBy and GroupBy to stats page
+- [ ] Add update function to trainings
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
